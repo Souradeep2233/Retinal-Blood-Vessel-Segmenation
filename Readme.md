@@ -2,7 +2,7 @@
 
 ## **👁️ Overview**
 
-This repository contains a deep-learning project focused on **retinal blood vessel segmentation** from fundus images. Accurate segmentation of blood vessels is crucial for the diagnosis and monitoring of various ocular diseases like **diabetic retinopathy, glaucoma, and hypertension**. This project leverages a modified U-Net architecture, the UNet+ model, with aggressive data augmentation techniques to achieve robust and precise segmentation.
+This repository contains a deep-learning research project focused on **retinal blood vessel segmentation** from fundus images. Accurate segmentation of blood vessels is crucial for the diagnosis and monitoring of various ocular diseases like **diabetic retinopathy, glaucoma, and hypertension**. This project leverages a modified U-Net architecture, the UNet+ model, with aggressive data augmentation techniques to achieve robust and precise segmentation.
 
 ![Fundus Vs Blood Vessel Mask](Fundus_mask.jpg)
 
